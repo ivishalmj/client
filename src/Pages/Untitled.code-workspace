@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "client",
+			"path": "/Users/josh/Desktop/rocinante-admin-dashboard/client"
+		},
+		{
+			"name": "rocinante-admin-dashboard",
+			"path": "/Users/josh/Sites/rocinante-admin-dashboard"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

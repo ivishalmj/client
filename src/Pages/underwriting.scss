@@ -1,0 +1,28 @@
+.form {
+  width: 200px;
+  float: left;
+
+  label {
+    display: flex;
+  }
+
+  button {
+    display: flex;
+  }
+
+  select {
+    width: 90px;
+    margin-right: 50px;
+  }
+
+  .right-section {
+    margin-left: 800px;
+    width: 200px;
+
+    button {
+      padding: 10px;
+      margin-bottom: 10px;
+      margin-top: 20px;
+    }
+  }
+}

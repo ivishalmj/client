@@ -1,0 +1,32 @@
+.form {
+  width: 200px;
+  float: left;
+
+  label {
+    display: flex;
+  }
+
+  input {
+    display: flex;
+  }
+
+  button {
+    display: flex;
+  }
+
+  select {
+    width: 90px;
+    margin-right: 50px;
+  }
+
+  .right-section {
+    position: absolute;
+    margin-left: 800px;
+
+    button {
+      padding: 10px;
+      margin-bottom: 10px;
+      margin-top: 20px;
+    }
+  }
+}

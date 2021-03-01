@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: 'ProximaNova-Reg';
+  src: local('ProximaNova-Reg'),
+  url(./Fonts/ProximaNova-Reg.woff2)
+  format('woff2');
+}
+
+body {
+  font-family: 'ProximaNova-Reg';
+  font-weight: 800;
+}
+
+.logo {
+    // background-image: url(/img/navbar-bg.8d3e94d7.png);
+    color: white;
+    padding: 30px 40px;
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: .1;
+    width: 40%;
+    font-family: "arial";
+
+  }
+
+  .nav-button {
+    float: right;
+    // background-image: url(/img/navbar-bg.8d3e94d7.png);
+    color: black;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-right: 45px;
+    float: right;
+    
+    }

@@ -1,0 +1,29 @@
+.page.dashboard {
+  text-align: center;
+  width: 1150px;
+  display: inline-block;
+
+
+
+  .content-outer-wrapper {
+    background: white;
+    padding-top: 20px;
+
+    .content-inner-wrapper {
+
+      > .content {
+        width: calc(100% - 90px);
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 160px;
+
+      }
+    }
+
+
+
+
+  }
+
+
+}

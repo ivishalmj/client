@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Upload/> Matches Snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div>
+          <button
+            class="ui button"
+            id="dashboardmodal"
+          >
+            Upload Documents
+          </button>
+          <div />
+        </div>
+      </div>
+    </div>
+    <div
+      class="uppy-Root"
+      dir="ltr"
+    >
+      <div
+        aria-hidden="true"
+        aria-label="File Uploader Window (Press escape to close)"
+        class="uppy-Dashboard uppy-Dashboard--animateOpenClose uppy-Dashboard--modal"
+        data-uppy-drag-drop-supported="true"
+        data-uppy-num-acquirers="0"
+        data-uppy-theme="light"
+      >
+        <div
+          class="uppy-Dashboard-overlay"
+          tabindex="-1"
+        />
+        <div
+          aria-modal="true"
+          class="uppy-Dashboard-inner"
+          role="dialog"
+        >
+          <button
+            aria-label="Close Modal"
+            class="uppy-u-reset uppy-Dashboard-close"
+            title="Close Modal"
+            type="button"
+          >
+            <span
+              aria-hidden="true"
+            >
+              ×
+            </span>
+          </button>
+          <div
+            class="uppy-Dashboard-innerWrap"
+          >
+            <div
+              class="uppy-Dashboard-dropFilesHereHint"
+            >
+              Drop your files here
+            </div>
+            
+            <div
+              class="uppy-Dashboard-AddFiles"
+            >
+              <input
+                aria-hidden="true"
+                class="uppy-Dashboard-input"
+                hidden=""
+                multiple=""
+                name="files[]"
+                tabindex="-1"
+                type="file"
+              />
+              <input
+                aria-hidden="true"
+                class="uppy-Dashboard-input"
+                hidden=""
+                multiple=""
+                name="files[]"
+                tabindex="-1"
+                type="file"
+                webkitdirectory="true"
+              />
+              <div
+                class="uppy-Dashboard-AddFiles-title"
+              >
+                Drop files here, paste or 
+                <button
+                  class="uppy-u-reset uppy-Dashboard-browse"
+                  data-uppy-super-focusable="true"
+                  type="button"
+                >
+                  browse files
+                </button>
+              </div>
+              
+              <div
+                class="uppy-Dashboard-AddFiles-info"
+              >
+                
+                <a
+                  class="uppy-Dashboard-poweredBy"
+                  href="https://uppy.io"
+                  rel="noreferrer noopener"
+                  tabindex="-1"
+                  target="_blank"
+                >
+                  Powered by 
+                  <span>
+                    <svg
+                      aria-hidden="true"
+                      class="uppy-c-icon uppy-Dashboard-poweredByIcon"
+                      focusable="false"
+                      height="11"
+                      viewBox="0 0 11 11"
+                      width="11"
+                    >
+                      <path
+                        d="M7.365 10.5l-.01-4.045h2.612L5.5.806l-4.467 5.65h2.604l.01 4.044h3.718z"
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                    <span
+                      class="uppy-Dashboard-poweredByUppy"
+                    >
+                      Uppy
+                    </span>
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+            
+            
+            
+            <div
+              class="uppy-Dashboard-progressindicators"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div>
+        <button
+          class="ui button"
+          id="dashboardmodal"
+        >
+          Upload Documents
+        </button>
+        <div />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

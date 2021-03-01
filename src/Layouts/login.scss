@@ -1,0 +1,32 @@
+.page.login {
+  text-align: center;
+  width: 560px;
+  display: inline-block;
+  margin-left: 350px;
+
+
+  .page-inner-container {
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+  }
+
+  .record-indicator {
+    width: 100%;
+    margin-bottom: 0px;
+    border-bottom: 2px dashed #f1f3f5;
+    padding: 20px 0;
+  }
+
+  >section {
+    vertical-align: top;
+  }
+
+  >section.main {
+    background: white;
+    margin-top: 70px;
+    padding: 10px 10px 10px 10px;
+    min-height: calc(100vh - 20px - 250px);
+    border-radius: 5px;
+  }
+}

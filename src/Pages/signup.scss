@@ -1,0 +1,53 @@
+@import "../Style/variables.scss";
+
+.login-wrapper {
+  padding: 10px;
+
+  label {
+    font-size: 1.125rem;
+    font-weight: 600;
+    opacity: 0.8;
+    padding-right: 15px;
+    padding-bottom: 20px;
+  }
+
+
+  .email-input {
+   margin-bottom: 20px;
+  }
+
+  .confirm-password-input {
+    margin-top: 10px;
+    margin-right: 30px;
+  }
+
+  .password-input {
+    margin-bottom: 10px;
+  }
+
+  .password-label {
+    margin-right: 30px;
+  }
+
+  .confirm-password-label {
+
+  }
+
+  .error {
+    color: #f76707;
+    font-size: 14px;
+  }
+
+  .submit-button {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-flex;
+    cursor: pointer;
+
+    &[disabled] {
+      cursor: not-allowed;
+      color: #ced4da;
+    }
+  }
+}

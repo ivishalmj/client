@@ -1,0 +1,27 @@
+.lookup-wrapper {
+
+  .dropdown {
+    margin-right: 270px;
+  }
+
+  display: inline-flex;
+  margin-top: 100px;
+
+  .policy-management {
+    display: inline-block;
+    margin-right: 150px;
+
+    .new-user {
+      margin-bottom: 50px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+
+    .existing-user {
+      margin-right: 20px;
+    }
+  }
+
+  .underwriting-management {
+  }
+}
